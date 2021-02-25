@@ -25,7 +25,7 @@ You will need to use the [Channels, Sites, and Routes](https://developer.bigcomm
 
 ## BigCommerce Checkout SDK
 
-Embedded Checkout requires the BigCommerce Checkout SDK to invoke a method to render the checkout in your site. Learn more about the [Checkout SDK](https://developer.bigcommerce.com/api-docs/cart-and-checkout/checkout-sdk).
+Embedded Checkout requires the BigCommerce [Checkout SDK](https://developer.bigcommerce.com/api-docs/cart-and-checkout/checkout-sdk) to invoke a method to render the checkout in your site.
 
 ## Logged-In customers
 
